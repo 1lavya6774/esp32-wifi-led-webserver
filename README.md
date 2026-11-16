@@ -8,6 +8,15 @@ This repository covers **both ways** to host a web server on the ESP32:
 
 ---
 
+## Project Demo Videos
+
+| Demo | Description | Video File |
+| :--- | :--- | :--- |
+| **Mobile Browser Control** | Controlling the ESP32 LED (`/H` & `/L`) from a smartphone browser on the local network | [Watch Mobile Demo (`media/mobile-control-demo.mp4`)](media/mobile-control-demo.mp4) |
+| **Laptop Browser Control** | Controlling the ESP32 LED (`/H` & `/L`) from a laptop web browser on the local network | [Watch Laptop Demo (`media/laptop-control-demo.mp4`)](media/laptop-control-demo.mp4) |
+
+---
+
 ## Hardware Required
 
 - **ESP32 Development Board**
